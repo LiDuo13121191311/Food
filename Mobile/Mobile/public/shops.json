@@ -1,0 +1,44 @@
+{
+  "shops":[
+    {
+      "sid": 1,
+      "name":"",
+      "desc":"",
+      "countMonth": 2000,
+      "minPrice":"15",
+      "deliveryCost":"3",
+      "deliveryTime":"40",
+      "pic":"https://img01.yzcdn.cn/vant/ipad.jpeg"
+    },
+    {
+      "sid": 2,
+      "name":"",
+      "desc":"",
+      "countMonth": 2000,
+      "minPrice":"15",
+      "deliveryCost":"3",
+      "deliveryTime":"40",
+      "pic":"https://img01.yzcdn.cn/vant/ipad.jpeg"
+    },
+    {
+      "sid": 3,
+      "name":"",
+      "desc":"",
+      "countMonth": 2000,
+      "minPrice":"15",
+      "deliveryCost":"3",
+      "deliveryTime":"40",
+      "pic":"https://img01.yzcdn.cn/vant/ipad.jpeg"
+    },
+    {
+      "sid": 4,
+      "name":"",
+      "desc":"",
+      "countMonth": 2000,
+      "minPrice":"15",
+      "deliveryCost":"3",
+      "deliveryTime":"40",
+      "pic":"https://img01.yzcdn.cn/vant/ipad.jpeg"
+    }
+  ]
+}
